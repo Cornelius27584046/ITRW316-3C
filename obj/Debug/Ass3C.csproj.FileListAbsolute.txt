@@ -1,0 +1,10 @@
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.csprojAssemblyReference.cache
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.Form1.resources
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.Properties.Resources.resources
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.csproj.GenerateResource.cache
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.csproj.CoreCompileInputs.cache
+F:\NWU 2019\Demo ITRW316\Ass3C\bin\Debug\Ass3C.exe.config
+F:\NWU 2019\Demo ITRW316\Ass3C\bin\Debug\Ass3C.exe
+F:\NWU 2019\Demo ITRW316\Ass3C\bin\Debug\Ass3C.pdb
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.exe
+F:\NWU 2019\Demo ITRW316\Ass3C\obj\Debug\Ass3C.pdb
